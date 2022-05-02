@@ -1,0 +1,12 @@
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class1-WF\bin\Debug\Class1-WF.exe.config
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class1-WF\bin\Debug\Class1-WF.exe
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class1-WF\bin\Debug\Class1-WF.pdb
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class1-WF\obj\Debug\Class1-WF.csproj.AssemblyReference.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class1-WF\obj\Debug\Class1-WF.csproj.SuggestedBindingRedirects.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class1-WF\obj\Debug\Class1_WF.ClientScreen.resources
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class1-WF\obj\Debug\Class1_WF.Form1.resources
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class1-WF\obj\Debug\Class1_WF.Properties.Resources.resources
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class1-WF\obj\Debug\Class1-WF.csproj.GenerateResource.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class1-WF\obj\Debug\Class1-WF.csproj.CoreCompileInputs.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class1-WF\obj\Debug\Class1-WF.exe
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class1-WF\obj\Debug\Class1-WF.pdb
